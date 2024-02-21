@@ -53,6 +53,9 @@ To get started with KarnaVision, follow these steps:
 
 Note: Before Starting the backend and frontend, make sure to add your environment variables in the .env. There is a placeholder to enter your credentials.
 
+## Test App
+Website: https://karnavision.netlify.app/
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
