@@ -54,7 +54,7 @@ To get started with KarnaVision, follow these steps:
 Note: Before Starting the backend and frontend, make sure to add your environment variables in the .env. There is a placeholder to enter your credentials.
 
 ## Test App
-Website: https://karnavision.netlify.app/
+Website: https://karnavision.netlify.app/ (Note: if you see a loading indicator when on home page, simply refresh the page. This happens because the backend service I used is Render and they sometimes go to sleep when not active)
 
 ## License
 
